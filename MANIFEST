@@ -3,3 +3,4 @@ setup.cfg
 setup.py
 TextOnScreen\TextOnScreen.py
 TextOnScreen\__init__.py
+TextOnScreen\tos.py

@@ -2,6 +2,6 @@
 __init__.py
 '''
 
-import tos
+from TextOnScreen import tos
 
 __all__ = ["tos"]
