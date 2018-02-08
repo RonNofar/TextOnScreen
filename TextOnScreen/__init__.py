@@ -2,6 +2,6 @@
 __init__.py
 '''
 
-import TextOnScreen
+import tos
 
-__all__ = ["TextOnScreen"]
+__all__ = ["tos"]
